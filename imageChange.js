@@ -1,3 +1,3 @@
-function flipimage(){
+function gobblecobbledhsauighif() {
     document.getElementById("front").src = "frontJail";
 }
