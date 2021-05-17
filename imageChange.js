@@ -3,5 +3,5 @@ function gobblecobbledhsauighif() {
 }
 
 function mknhfids(){
-    document.getElementById("side").src = "fhdiaush";
+    document.getElementById("side").src = "fhdiaush.png";
 }
