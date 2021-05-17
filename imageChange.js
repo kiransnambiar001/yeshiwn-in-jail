@@ -1,3 +1,3 @@
 function gobblecobbledhsauighif() {
-    document.getElementById("front").src = "frontJail.png";
+    document.getElementById("front").src = "dgy8sa.png";
 }
