@@ -5,3 +5,7 @@ function gobblecobbledhsauighif() {
 function mknhfids(){
     document.getElementById("side").src = "fhdiaush.png";
 }
+
+function nomnom(){
+    document.getElementById("hand").src = "Left.png"
+}
